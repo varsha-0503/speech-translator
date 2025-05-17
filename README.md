@@ -28,9 +28,9 @@ How to Set Up and Run:
 
 Folder Structure:
 speech-translator/
-├── speechtotext_translator.py
 ├── README.md
-└── translation_log.csv (optional – will be created after running the script)
+├── speech_to_text.py
+└── translation_log.csv
 
 Sample Output:
 You say: Hello, how are you?
